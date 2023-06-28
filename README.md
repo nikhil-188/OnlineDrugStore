@@ -50,44 +50,27 @@ have in our project on the header file (Mostly we used PHP only and if we want t
 
 anything from the database we used SQL statements):
 
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-Types
-
-Uses
-
-Medicines
-
-My cart
-
-Checkout
-
-Sign in
-
-Sign out
-
-Contact Us
+      Types
+      
+      Uses
+      
+      Medicines
+      
+      My cart
+      
+      Checkout
+      
+      Sign in
+      
+      Sign out
+      
+      Contact Us
 
 And we have manager login and expert login, can login and add or delete medicines and other can edit
 
 the information which has been given by the manager respectively. He can modify all the details like it
 
 belongs to which type, which use, description, image of the medicine and price of the medicine.
-
 
 
 <a name="br2"></a> 
@@ -99,6 +82,8 @@ Admin login:
 (We can also see the header file in all the images with the above mentioned options we can access those
 
 where ever we are.)
+![image](https://github.com/nikhil-188/OnlineDrugStore/assets/84719583/fa891ac5-66f0-44ce-b278-6eb118be843c)
+
 
 Here he can delete the medicines which are already added.
 
